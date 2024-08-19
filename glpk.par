@@ -1,0 +1,7 @@
+scale yes
+branch drtom
+backtrack bestp
+maxsols 1
+sensitivity yes
+basis no
+method simplex
