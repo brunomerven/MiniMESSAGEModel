@@ -186,7 +186,7 @@ ReserveMargin Rese o
 3Dummy 3Dum o
 *
 IPW IPW o 0
-upper c 0
+lower c 0
 *
 relations2:
 variables:

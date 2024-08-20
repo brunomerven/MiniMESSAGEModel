@@ -237,7 +237,7 @@ ElecTD a
     moutp	e-t c 1.0
     inv	c 1.0
     con1c Rese:tin	c -1
-    con1a IPW	c -0.7
+    con1a IPW	c -0.3
 # 
 *
 NG a
@@ -247,6 +247,7 @@ NG a
     fom	c 30.0
     vom	c 600
     con1c Rese:tin	c 1
+    con1a IPW   c 1
 # 
 *
 Wind b
@@ -254,7 +255,6 @@ Wind b
     pll	c 25.0
     inv	c 1500
     fom	c 18
-    con1a IPW   c 1
 # 
 *
 PV c
@@ -262,7 +262,6 @@ PV c
     pll	c 25.0
     inv	c 450
     fom	c 11
-    con1a IPW   c 1
 # 
 *
 Batt a
