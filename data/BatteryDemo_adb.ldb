@@ -21,6 +21,11 @@ Final f
     Electricity e l 
     # 
 *
+Tertiary t
+# Tertiary level
+    Electricity e l 
+    # 
+*
 Secondary s
 # Secondary level
     Electricity e l 
@@ -180,9 +185,13 @@ ReserveMargin Rese o
 *
 3Dummy 3Dum o
 *
+IPW IPW o 0
+*
 relations2:
 variables:
 systems:
+ElecDem a
+*
 ElecTD a
 *
 NG a

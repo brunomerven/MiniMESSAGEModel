@@ -1,5 +1,5 @@
-TDB: empty
-ADB: BatteryDemo
+tdb: empty
+adb: BatteryDemo
 problem: BatteryDemo
 description:
 # Demonstration Battery Modelling
@@ -17,6 +17,11 @@ length	 0.020719 0.020719 0.020719 0.020719 0.020719 0.020719 0.020719 0.020719 
 energyforms:
 Final f
 # Final level
+    Electricity e l 
+    # 
+*
+Tertiary t
+# Tertiary level
     Electricity e l 
     # 
 *
@@ -213,14 +218,26 @@ ReserveMargin Rese o
     lower	c 0
     type	None
 *
+IPW IPW o 0
+    units	group: activity, type: energy, cost:US$'00/kWyr, upper:MWyr, lower:MWyr
+    for_ldr	all
+    type	None
+*
 relations2:
 variables:
 systems:
-ElecTD a
-    minp	e-s 1.
+ElecDem a
+    minp	e-t 1.
     moutp	e-f c 1.0
     inv	c 1.0
+# 
+*
+ElecTD a
+    minp	e-s 1.
+    moutp	e-t c 1.0
+    inv	c 1.0
     con1c Rese:tin	c -1
+    con1a IPW	c -0.7
 # 
 *
 NG a
@@ -237,6 +254,7 @@ Wind b
     pll	c 25.0
     inv	c 1500
     fom	c 18
+    con1a IPW   c 1
 # 
 *
 PV c
@@ -244,6 +262,7 @@ PV c
     pll	c 25.0
     inv	c 450
     fom	c 11
+    con1a IPW   c 1
 # 
 *
 Batt a
@@ -252,8 +271,8 @@ Batt a
     pll	c 15.0
     inv	c 1100
     fom	c 27.5
-    con1c Rese:tin	c 1
     con1c 1Sto:tin	c 1
+    con1c Rese:tin	c 1
     consa StoB	c 0.85
 # 
 2. activity d
