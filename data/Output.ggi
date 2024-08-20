@@ -1,0 +1,10 @@
+title: Output
+graph:	cumulative	yes (same color)	histogramm
+year: 2030
+unit: energy MWyr
+@
+NG/Electricity; BatteryDemo/adb; Technologies; NG; output; Electricity; red; 0; 1
+Wind/Electricity; BatteryDemo/adb; Technologies; Wind; output; Electricity; green; 1; 1
+PV/Electricity; BatteryDemo/adb; Technologies; PV; output; Electricity; blue; 2; 1
+Batt[2.]/Electricity; BatteryDemo/adb; Technologies; Batt[2.]; output; Electricity; yellow; 3; 1
+Batt/Dummy; BatteryDemo/adb; Technologies; Batt; output; Dummy; cyan; 4; 1

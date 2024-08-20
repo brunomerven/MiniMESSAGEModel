@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CO2",
+				"CO2Emis"
+			],
+			[
+				"A",
+				"ALLIndicators"
+			],
+			[
+				"NE",
+				"NEBill"
+			],
+			[
+				"labour",
+				"labour"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 200.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git: stat\t",
+				"Git: Status"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 666.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Programs/MESSAGE_INT/models/BatteryDemo"
+	],
+	"file_history":
+	[
+		"/C/Models/SATIMGE_Veda/.gitignore",
+		"/C/Models/SATIMGE_Veda/CGE/includes/2simulation.inc",
+		"/C/Models/pypsa-za2/.gitignore",
+		"/C/Models/pypsa-za2/archive/error messages 7June",
+		"/C/Users/bruno/AppData/Local/Temp/Rar$DIa848.307/nz10_2050a_09.lst",
+		"/C/Models/SATIMGE_Veda/SATIMGE.gms",
+		"/C/Veda/GAMS_WrkTIMES/DemoS_010/runfile.run",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/AllScenarios/base.dd",
+		"/C/Models/SATIMGE_Veda/SATIMGE.lst",
+		"/C/Models/SATIMGE_Veda/CGE/includes/CGE_Report.inc",
+		"/C/Models/SATIMGE_Veda/CGE/includes/2energychecks.inc",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2050A_09EESSMXCT/nz10_2050a_09eessmxct.lst",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2050A_09EESSEXCT/dmd_prj.dd",
+		"/C/Users/bruno/AppData/Local/Temp/Rar$DIa13236.31982/nz10_2050a_08.lst",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2050A_09EESSNXCT/nz10_2050a_09eessnxct.run",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2050A_09EESSEXCT/nz10_2050a_09eessexct.run",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/REF/ref.run",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2050A_10EESSNXCT/nz10_2050a_10eessnxct.lst",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2050A_09EESSEXCT/runfile.run",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/CumulTest-EE-UCG/shape_tra.dd",
+		"/C/Users/bruno/AppData/Local/Temp/Rar$DIa11612.8301/nz10_2050a_09-compare.run",
+		"/C/Users/bruno/AppData/Local/Microsoft/Windows/INetCache/IE/ROH17GA1/UsefulEnergy[1].do",
+		"/C/Models/SATIMGE_Veda/CGE/includes/2simulation_loop.inc",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/dmd_prj_3iter.dd",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/RUNTIMES.CMD",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2099B_99EESSNXCT/dmd_prj.dd",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2050A_08EESSNXCT/ccst.dd",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2050A_09/nz10_2050a_09.run",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2050A_09/cplex.opt",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/NZ10_2050A_09/nz10_2050a_09.lst",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/3BS_Est_Aut.opt",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/TestBY/base.dd",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/TestBY/runfile.run",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/TestBY/testby.run",
+		"/C/Users/bruno/AppData/Local/Microsoft/Windows/INetCache/IE/GE480YD9/REF[2].lst",
+		"/C/Models/SATIMGE_Veda/GAMS_WrkTIMES/TestBY/testby.lst",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAa/data/MAa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/intm/gurobi.bu",
+		"/C/Programs/MESSAGE_INT/models/Africa/ZAa/data/ZAa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/BIa/data/BIa_Reference.ldb",
+		"/C/Programs/MESSAGE_INT/models/minimodel/data/minimodel.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/BIa/data/BIa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa.adb",
+		"/C/Veda/Veda2.0_localhost_2.10.1.1/logs/2023-08-15.log",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/intm/gurobi.env",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/regid_AllRegions.tit",
+		"/C/Programs/MESSAGE_INT/models/Africa/SNa/data/SNa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/RWa/data/RWa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_Reference.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/AOa/data/AOa_Baseline.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/ZWa/data/ZWa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/TNa/data/TNa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/NEa/data/NEa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/KEa/data/KEa_Baseline.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/ETa/data/ETa_FullIntegration.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/KEa/data/KEa_Reference.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/ETa/data/ETa_Reference.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/ETa/data/ETa_Baseline.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/ETa/data/ETa.cin",
+		"/C/Programs/MESSAGE_INT/models/Africa/ETa/data/ETa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/TZa/data/TZa_FullRegionalMD.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/TZa/data/TZa_FullContinentalMD.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/EGa/data/EGa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/regid_AllRegions_WAPP+Mauritania.tit",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_FullRegionalMD.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_FullContinentalMD.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_Baseline.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_FullIntegration.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/CMa/data/CMa_FullContinentalMD.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/KEa/data/KEa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/KEa/res/KEa_Baseline.tab",
+		"/C/Programs/MESSAGE_INT/models/Africa/DZa/data/DZa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/TZa/data/TZa_Baseline.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/TNa/res/GenProfile_Reference.tab",
+		"/C/Programs/MESSAGE_INT/models/Africa/TNa/data/Tunisia.tit",
+		"/C/Programs/MESSAGE_INT/models/Africa/SOa/data/SOa_Reference.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/SOa/data/SOa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/EGa/data/GenProfile.cin",
+		"/C/Programs/MESSAGE_INT/models/Africa/LRa/data/LRa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/EGa/data/EGa_Baseline.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/EGa/data/EGa_Reference.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/AOa/data/AOa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/ERa/data/ERa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/NGa/data/NGa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/CMa/data/CMa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MRa/data/MRa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/res/GenProfile_FullIntegration.tab",
+		"/C/Programs/MESSAGE_INT/models/Africa_broken/MAINa/data/MAINa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/BIa/data/BIa.cin",
+		"/C/Programs/MESSAGE_INT/models/Africa/BJa/data/BJa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_FullRMTest1.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/TZa/data/TZa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/TZa/data/TZa_PlanIntegration.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/BJa/data/BJa.cin",
+		"/C/Programs/MESSAGE_INT/models/Africa/run_GUROBI_MAINa_Reference_all.bat",
+		"/C/Programs/MESSAGE_INT/models/Africa/SDa/data/SDa_Baseline.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/LSa/data/LSa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/TNa/data/TNa_Baseline.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MRa/data/MRa_Baseline.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAa/data/MAa_Baseline.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/LSa/data/GenProfile.cin",
+		"/C/Programs/MESSAGE_INT/models/Africa/run__LSa_PlanIntegration_cap.bat",
+		"/C/Programs/MESSAGE_INT/models/Africa/UGa/data/UGa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/GHa/data/GHa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/ZMa/data/ZMa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa.cin",
+		"/C/Programs/MESSAGE_INT/models/Africa/DJa/data/DJa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/CFa/data/CFa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/NGa/data/NGa_PlanIntegration.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/regid_AllRegions - All-bu.tit",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_adb.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/CFa/data/CFa.cin",
+		"/C/Programs/MESSAGE_INT/models/Africa/CFa/data/CFa_FullIntegration.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/CFa/data/CFa_PlanIntegration.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_PlanIntegration.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/TZa/data/TZa_old.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAa/data/MAa_C0TDDemands.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAa/data/MAa_H2ExpHighV2.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_ACEC.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_C0TDDemands.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MAINa/data/MAINa_Interconnected.ldb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MLa/data/MLa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MRa/colnum_db.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MRa/cols_db.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MRa/rhss_db.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MWa/data/MWa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MZa/data/MZa.adb",
+		"/C/Programs/MESSAGE_INT/models/Africa/MZa/data/MZa_adb.ldb"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.summary-panel":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "batterydemo.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

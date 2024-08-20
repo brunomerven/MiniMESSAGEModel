@@ -1,0 +1,10 @@
+title: Capacity
+graph:	cumulative	yes (same color)	histogramm
+year: annual
+unit: power MW
+@
+Batt/total inst cap; BatteryDemo/adb; Technologies; Batt; total inst cap; ; red; 0; 1
+NG/total inst cap; BatteryDemo/adb; Technologies; NG; total inst cap; ; green; 1; 1
+PV/total inst cap; BatteryDemo/adb; Technologies; PV; total inst cap; ; blue; 2; 1
+Wind/total inst cap; BatteryDemo/adb; Technologies; Wind; total inst cap; ; yellow; 3; 1
+ElecTD/total inst cap; BatteryDemo/adb; Technologies; ElecTD; total inst cap; ; cyan; 4; 1
